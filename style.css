@@ -1,0 +1,31 @@
+/*
+Premium SaaS Landing Page Styles for "NovaLaunch"
+
+General:
+- Use 'Poppins', sans-serif.
+- Color palette: #6366F1 (indigo), #3B82F6 (blue), white (#fff), gray backgrounds (#f9fafb), dark text (#111827).
+- Gradient: linear-gradient(90deg, #6366F1, #3B82F6).
+- Apply consistent padding, max-width containers, and responsive breakpoints (mobile: <768px, tablet: <1024px).
+
+Navbar:
+- Sticky top with gradient background and subtle shadow.
+- Nav links white with hover underline animation.
+- Hamburger menu on mobile with smooth slide-down animation.
+
+Hero:
+- Split layout: text left, image/illustration right.
+- Gradient CTA button with hover glow effect.
+- Large headline, medium subheading.
+
+Sections:
+- Features: three responsive cards, white background, rounded corners, subtle shadow, hover lift.
+- Pricing: gradient borders, white inside, CTA button with gradient fill.
+- Testimonials: centered cards with avatars, italic quote text, subtle box shadow.
+
+Animations:
+- Fade-in & slide-up for each section (opacity from 0 → 1, translateY from 40px → 0).
+- Smooth hover transitions for buttons & cards.
+
+Footer:
+- Gradient background, white text, social icons as white circles with hover color change.
+*/
